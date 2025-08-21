@@ -9,6 +9,6 @@ It can perform basic arithmetic operations like addition, subtraction, multiplic
 - Works directly in the browser  
 
 ### 🔗 Live Demo:
-[Click here](https://github.com/Sanjanamohanty123/my-calculator-project.git)
+[Click here](https://sanjanamohanty123.github.io/my-calculator-project/)
 ### 📂 Repository:
 Feel free to explore, fork, and suggest improvements! 😊
