@@ -9,7 +9,7 @@ It can perform basic arithmetic operations like addition, subtraction, multiplic
 - Works directly in the browser  
 
 ### 🔗 Live Demo:
-[Click here to try](https://codesandbox.io/p/sandbox/github/Sanjanamohanty123/my-calculator-project)
+[Click here to try](https://tspd7p.csb.app/)
 
 ### 📂 Repository:
 Feel free to explore, fork, and suggest improvements! 😊
